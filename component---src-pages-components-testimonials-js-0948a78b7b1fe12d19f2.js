@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_v2=self.webpackChunkportfolio_v2||[]).push([[147],{6375:function(t,e,n){n.r(e),n.d(e,{default:function(){return r}});var o=n(7294);function r(){return o.createElement("section",{id:"Testimonials",className:"text-gray-400 bg-gray-900 body-font"})}}}]);
+//# sourceMappingURL=component---src-pages-components-testimonials-js-0948a78b7b1fe12d19f2.js.map

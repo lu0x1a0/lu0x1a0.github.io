@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_v2=self.webpackChunkportfolio_v2||[]).push([[727],{7365:function(t,e,n){n.r(e),n.d(e,{default:function(){return r}});var o=n(7294);function r(){return o.createElement("section",{id:"Skills",className:"text-gray-400 bg-gray-900 body-font"})}}}]);
+//# sourceMappingURL=component---src-pages-components-skills-js-169fe42590b379aee984.js.map
