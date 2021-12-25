@@ -1,17 +1,25 @@
 ---
 slug: "/"
 date: "2021-12-25"
-title: "Home"
+title: "Sean Luo"
 ---
 ## About
-I am a penultimate year student studying Bachelor of Advance Mathematics (Statistics) (Honours) & Computer Science (Artificial Intelligence) at UNSW Sydney. My interests includes bayesian deep learning, time series prediction and web crawlers.
+I am a penultimate year student studying Bachelor of Advance Mathematics (Statistics) (Honours) & Computer Science (Artificial Intelligence) at UNSW Sydney. My interests includes bayesian deep learning, time series prediction, web crawlers, and hobbyist website development.
+
+## Education:
+UNSW Bachelor of Advance Mathematics & Computer Science: 2018-2022
+
+Major in Statistics and Artificial Intelligence.
+
+Computer Science Exchange to HKUST: Fall 2019
 
 ## Skills
 * Programming Language: Python, Java, JavaScript, C, SQL, MATLAB, R
 * Libraries/Framework: PyQt, PyTorch, Selenium, PySpark, Hadoop React, React Native, Socket.io, P3.js, Plotly.js
 * Cloud Platforms: AWS, GCP
 * Software: VSCode, MSOffice, AutoDesk Maya
-* Statistical Modelling.
+* Statistical Modelling, Machine Learning, Data Cleaning and Analysis.
+* Bilingual in Chinese(Mandarin) and English
 
 ## Projects
 ### Current Projects
