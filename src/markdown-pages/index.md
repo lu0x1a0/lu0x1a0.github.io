@@ -17,10 +17,14 @@ Computer Science Exchange to HKUST: Fall 2019
 ## Skills
 #### Programming Language: 
 
-Python, Java, JavaScript, C, SQL, MATLAB, R
-![python](../images/med_icon/python_icon.png)
-![java](../images/med_icon/java_icon.png)
-![C](https://github.com/lu0x1a0/lu0x1a0.github.io/raw/master/src/images/sml_icon/c_icon.png)
+![python](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/python_icon.png)
+![java](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/java_icon.png)
+![js](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/js_icon.png)
+![sql](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/sql_icon.png)
+![matlab](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/matlab_icon.png)
+![r](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/r_icon.png)
+
+
 #### Libraries/Framework: 
 
 PyQt, PyTorch, Selenium, PySpark, Hadoop React, React Native, Socket.io, P3.js, Plotly.js
