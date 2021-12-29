@@ -27,12 +27,36 @@ Computer Science Exchange to HKUST: Fall 2019
 
 #### Libraries/Framework: 
 
-PyQt, PyTorch, Selenium, PySpark, Hadoop React, React Native, Socket.io, P3.js, Plotly.js
+PyQt, PyTorch, Selenium, PySpark, Hadoop React, React Native, Socket.io, P5.js, Plotly
+
+
+![pyqt](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/pyqt_icon.png)
+![PyTorch](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/pytorch_icon.png)
+![Selenium](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/selenium_icon.png)
+![PySpark](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/pyspark_icon.png)
+![Hadoop](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/hadoop_icon.png)
+![React](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/react_icon.png)
+![React Native](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/react_native_icon.png)
+![Socket.io](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/socketio_icon.png)
+![P5.js](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/p5js_icon.png)
+![Plotly](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/plotly_icon.png)
+
+
 
 #### Cloud Platforms: 
 AWS, GCP
+
+![AWS](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/aws_icon.png)
+![GCP](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/gcp_icon.png)
+
+
 #### Software: 
 VSCode, MSOffice, AutoDesk Maya
+
+![vsc](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/vsc_icon.png)
+![mso](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/msoffice_icon.png)
+![maya](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/maya_icon.png)
+
 #### Knowledge:
 
 * Statistical Modelling, Machine Learning, Data Cleaning and Analysis.
