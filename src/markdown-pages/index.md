@@ -4,7 +4,7 @@ date: "2021-12-25"
 title: "Sean Luo"
 ---
 
-## About
+<h2 id = "About">About </h2>
 I am a penultimate year student studying Bachelor of Advance Mathematics (Statistics) (Honours) & Computer Science (Artificial Intelligence) at UNSW Sydney. My interests includes bayesian deep learning, time series prediction, web crawlers, and hobbyist website development.
 
 ## Education:
@@ -14,7 +14,7 @@ Major in Statistics and Artificial Intelligence.
 
 Computer Science Exchange to HKUST: Fall 2019
 
-## Skills
+<h2  id = "Skills"> Skills </h2>
 #### Programming Language: 
 
 ![python](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/python_icon.png)
@@ -26,9 +26,6 @@ Computer Science Exchange to HKUST: Fall 2019
 
 
 #### Libraries/Framework: 
-
-PyQt, PyTorch, Selenium, PySpark, Hadoop React, React Native, Socket.io, P5.js, Plotly
-
 
 ![pyqt](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/pyqt_icon.png)
 ![PyTorch](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/pytorch_icon.png)
@@ -44,14 +41,12 @@ PyQt, PyTorch, Selenium, PySpark, Hadoop React, React Native, Socket.io, P5.js, 
 
 
 #### Cloud Platforms: 
-AWS, GCP
 
 ![AWS](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/aws_icon.png)
 ![GCP](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/gcp_icon.png)
 
 
 #### Software: 
-VSCode, MSOffice, AutoDesk Maya
 
 ![vsc](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/vsc_icon.png)
 ![mso](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/msoffice_icon.png)
@@ -62,7 +57,8 @@ VSCode, MSOffice, AutoDesk Maya
 * Statistical Modelling, Machine Learning, Data Cleaning and Analysis.
 * Bilingual in Chinese(Mandarin) and English
 
-## Projects
+<h2 id = "Projects"> Projects </h2>
+
 ### Current Projects
 * Studying Surrogate Assisted Bayesian Neural Networks.
 * [EURUSD Price Analysis](https://lu0x1a0.github.io/EURUSDPriceAnalysis)
@@ -96,5 +92,5 @@ VSCode, MSOffice, AutoDesk Maya
     * Jointly conducted community survey and market research across Sydney.
 * [Coursework: JavaFX 2D Dungeon Game](https://github.com/lu0x1a0/_redacted_dungeon_game)
 
-## Contact
+<h2 id = "Contact"> Contact </h2>
 Email: seanluo1999 (at) gmail.com

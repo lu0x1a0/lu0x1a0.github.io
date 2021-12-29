@@ -6,8 +6,8 @@ export default function SideNavBar(){
         <a className="sections active" href="#home">Home</a>
         <a className= 'sections' href="#About">About</a>
         <a className= 'sections' href="#Skills">Skills</a>
-        <a className= 'sections' href="#Projects">Project</a>
-        <a className= 'sections' href="#Projects">Contact</a>
+        <a className= 'sections' href="#Projects">Projects</a>
+        <a className= 'sections' href="#Contact">Contact</a>
         <div className = 'sections bottom'>
           <div className = 'reachout'>
                 
