@@ -8,7 +8,7 @@ export default function SideNavBar(){
         <a className= 'sections' href="#Skills">Skills</a>
         <a className= 'sections' href="#Projects">Project</a>
         <a className= 'sections' href="#Projects">Contact</a>
-        <div className = 'bottom'>
+        <div className = 'sections bottom'>
           <div className = 'reachout'>
                 
             <a href = 'https://www.linkedin.com/in/sean-luo-b4608a15b/'>
