@@ -15,6 +15,7 @@ Major in Statistics and Artificial Intelligence.
 Computer Science Exchange to HKUST: Fall 2019
 
 <h2  id = "Skills"> Skills </h2>
+
 #### Programming Language: 
 
 ![python](https://raw.githubusercontent.com/lu0x1a0/lu0x1a0.github.io/master/src/images/sml_icon/python_icon.png)
