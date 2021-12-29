@@ -63,8 +63,8 @@ VSCode, MSOffice, AutoDesk Maya
 * [Peter Farrell Cup Business Pitch Competition Participant: Light Tape Solution](https://www.credly.com/badges/0e144069-55a1-4561-857c-9ce9bd36a193)
     Detail:
     * Created 3D Product demonstration Animation in Maya. 
-    * 
+    * Jointly conducted community survey and market research across Sydney.
 * [Coursework: JavaFX 2D Dungeon Game](https://github.com/lu0x1a0/_redacted_dungeon_game)
 
 ## Contact
-Email: seanluo1999@gmail.com
+Email: seanluo1999 (at) gmail.com
