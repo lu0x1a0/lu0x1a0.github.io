@@ -11,7 +11,7 @@ export default function SideNavBar(){
         <div className = 'sections bottom'>
           <div className = 'reachout'>
                 
-            <a href = 'https://www.linkedin.com/in/sean-luo-b4608a15b/'>
+            <a className = "social" href = 'https://www.linkedin.com/in/sean-luo-b4608a15b/'>
               <StaticImage 
                 src="../images/linkedin_icon.png" 
                 alt="linkedin icon" 
@@ -20,7 +20,7 @@ export default function SideNavBar(){
               />
             </a>
             
-            <a href = 'https://github.com/lu0x1a0'>
+            <a className = "social" href = 'https://github.com/lu0x1a0'>
               <StaticImage 
                 src="../images/github_icon.png" 
                 alt="github icon" 

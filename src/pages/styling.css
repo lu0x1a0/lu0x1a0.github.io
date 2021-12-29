@@ -34,6 +34,9 @@ color: white;
     bottom : 16px;
     padding: 16px;
 }
+a.social {
+    padding: 8px;
+}
 /*
 .sidebar .reachout{
     position : relative;
