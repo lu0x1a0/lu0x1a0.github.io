@@ -26,6 +26,8 @@ module.exports = {
         excludePattern: /(excluded-link|external)/,
       },
     },
+
+    `gatsby-plugin-react-helmet`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,

@@ -1,4 +1,5 @@
 import React, {useEffect,useState,useRef} from "react"
+import { Helmet } from "react-helmet"
 import { graphql } from "gatsby"
 import './styling.css'
 
@@ -66,7 +67,12 @@ export default function Template({
     demo = <p/>
   }
   return (
-    <div>
+    <div className = "application">
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Sean Luo's Homepage</title>
+        <link rel="canonical" href="http://mysite.com/example" />
+      </Helmet>
       <SideNavBar />
       <div className="blog-post-container content">
         <div className="blog-post">
