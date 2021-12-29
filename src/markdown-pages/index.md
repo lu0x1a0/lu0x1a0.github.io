@@ -18,7 +18,8 @@ Computer Science Exchange to HKUST: Fall 2019
 #### Programming Language: 
 
 Python, Java, JavaScript, C, SQL, MATLAB, R
-
+![python](../images/med_icon/python_icon.png)
+![java](../images/med_icon/java_icon.png)
 #### Libraries/Framework: 
 
 PyQt, PyTorch, Selenium, PySpark, Hadoop React, React Native, Socket.io, P3.js, Plotly.js
